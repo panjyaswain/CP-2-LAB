@@ -1,2 +1,0 @@
-#iclude<stdio.h>
-
