@@ -1,0 +1,9 @@
+//Create a program to count the number of command-line arguments passed.//
+#include <stdio.h>
+
+int main(int argc, char *argv[]) {
+
+    printf("Number of arguments = %d\n", argc - 1);
+
+    return 0;
+}
